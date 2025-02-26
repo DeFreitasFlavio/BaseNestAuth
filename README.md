@@ -1,4 +1,4 @@
-<p align="center"># BaseNestAuth</p>
+<p align="center"><h1>BaseNestAuth</h1></p>
 
 A backend authenticator in NestJs with a Login/Register
 
